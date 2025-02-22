@@ -32,7 +32,7 @@
 4. Choose the interpreter inside the .venv folder located in the project root directory.
 5. This is good time to `git add .`, `git commit -m "Message"`, `git push -u origin main` files to GitHub
 
-## Step 6: Create Jupyter Notebook: Exploratory Data Analysis
+## Step 6: Create New Jupyter Notebook (File>New>"name.ipynb")
 1.  Data Acquisition
 2.  Initial Data Inspection
 3.  Initial Descriptive Statistics
