@@ -1,6 +1,7 @@
 # datafun-07-applied
 
 ## Purpose  
+- To create a guided project.
 
 ## Step 1: New Project Setup
 1. Initialize Repository: Create a new GitHub repository named **datafun-07-applied** with a default `README.md`.

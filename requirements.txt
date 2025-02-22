@@ -1,52 +1,28 @@
-# requirements.txt - All the packages required for this project
-# -------------------------------
 # Core Python Package Management
-# -------------------------------
-
-# Pip - The package manager for Python
 pip==25.0.1
-
-# Setuptools - Tools for packaging Python projects
 setuptools==75.8.0
-
-# Wheel - Helps distribute Python packages in the .whl format
 wheel==0.45.1
 
-# -------------------------------
-# Interactive Python Environment
-# -------------------------------
-
-# IPython - Provides an enhanced interactive shell for Python
+# Interactive Development & Notebooks
 ipython==8.32.0
-
-# JupyterLab - Web-based interactive development environment for notebooks
+ipykernel==6.29.0
+jupyter==1.1.1
 jupyterlab==4.3.5
 
-# Jupyter - A web-based interactive development environment for notebooks, code, and data
-jupyter==1.1.1
-
-# -------------------------------
 # Numerical & Data Processing
-# -------------------------------
-
-# NumPy - Library for numerical computing and handling large datasets
 numpy==2.2.3
-
-# Pandas - Handles data manipulation and analysis, focusing on structured (tabular/panel) data.
 pandas==2.2.3
-
-# PyArrow - Required by pandas; facilitates interaction between pandas and the Arrow format.
 pyarrow==19.0.0
+scipy==1.15.2
+scikit-learn==1.4.0
 
-# -------------------------------
 # Data Visualization
-# -------------------------------
-
-# Matplotlib - Basic tools for plotting and visualizing data.
 matplotlib==3.10.0
-
-# Seaborn - Simplifies complex visualizations and statistical plots, built on matplotlib.
 seaborn==0.13.2
 
-# Scipy - S scientific computing library in Python. It builds on numpy and provides a large collection of mathematical algorithms and functions, including routines for optimization, integration, interpolation, eigenvalue problems, and more.
-scipy==1.15.2
+# Natural Language Processing (NLP)
+nltk==3.8.1
+textblob==0.17.1
+
+# Web Scraping & Geolocation
+beautifulsoup4==4.12.3
