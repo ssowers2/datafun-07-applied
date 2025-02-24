@@ -38,7 +38,10 @@
 3.  Initial Descriptive Statistics
 4.  Initial Data Distribution for Numerical Columns
 5.  Initial Data Distribution for Categorical Columns
-6.  Create Visualizations
+6.  Build the Model
+7.  Test the Model
+8.  Predict
+9.  Create Visualizations
 
 ## Git Commands Reminders 
 1. Add Changes: `git add .`
